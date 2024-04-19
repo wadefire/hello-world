@@ -1,3 +1,2 @@
 # hello-world
-practice GitHub flow  
-I'm Wade.
+practice GitHub flow
